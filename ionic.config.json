@@ -1,0 +1,8 @@
+{
+  "name": "MapaCampus",
+  "app_id": "476be563",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
